@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(94, 82, 219);
+}
+
+header {
+    text-align: center;
+    background-color: rgb(94, 82, 219);
+    color: rgb(230, 229, 238);
+}
+
+section {
+    font-style: initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(13, 9, 6);
+}
+
+#QuienesSomos {
+
+    text-align: center;
+
+    color: rgb(9, 9, 9);
+    background-color: rgb(147, 139, 139);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Proyectos {
+    text-align: center;
+    color: rgb(26, 26, 25);
+    background-color: rgb(147, 139, 139);
+}
+
+
+.Proyectos H2 {
+    text-align: center;
+    color: rgb(18, 19, 19);
+
+}
+
+.Proyectos H3 {
+    text-align: center;
+    color: rgb(14, 14, 14);
+
+}
+
+#Contacto {
+    color: rgb(23, 25, 25);
+    background-color: rgb(147, 139, 139);
+}
+
+.Contacto h2 {
+    text-align: center;
+    color: rgb(27, 28, 27);
+}
+
+section h3 {
+    text-align: left;
+    color: rgb(14, 11, 11);
+}
+
+article {
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(42, 95, 165);
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+nav {
+    background-color: rgb(147, 139, 139);
+}
+
+ul {
+    text-align: center;
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+p {
+    text-align: center;
+    color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    gap: 20px;
+}
+
+footer {
+    background-color: black;
+}
